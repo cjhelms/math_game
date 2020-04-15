@@ -5,4 +5,4 @@ A simple game where you must solve arithmetic problems within a time limit. Your
 Written in C++ using SDL2 for visualization.
 
 # How to Play
-Clone the repository or download as a .zip file & extract then run main.exe in math_game/bin.
+Clone the repository (or download the repository as a .zip file & extract) then run main.exe in math_game/bin.
